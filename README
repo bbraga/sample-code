@@ -1,0 +1,22 @@
+******************************************************************************************
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send 
+a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+Copyright 2011 @ Bruno Braga
+******************************************************************************************
+
+This package contains some sample applications I did for a former client in order to be accepted as their employee, it is in no way copyrighted by them.
+
+Please review the phptext.pdf for the exercises in the set.
+
+As a bonus I also did one final test exercise that consisted in:
+
+	A simple book store consisting of two pages:
+   		- Add/edit book
+   		- Search for book by: ISBN or title (empty search will show all books).
+   		- A page that will auto-fill the db by parsing books from: http://www.valorebooks.com/top-textbooks 
+		- you do not need to drill down, just to parse/insert all the entries on this page
+
+
+

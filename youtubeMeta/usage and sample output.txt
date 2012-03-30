@@ -1,0 +1,10 @@
+$ php youtube.php http://www.youtube.com/watch?v=SBH-uD8N-nE
+<?xml version="1.0"?>
+<youtube>
+        <title>A Beautiful Lie 30 Seconds to Mars HD
+        </title>
+        <description>A Beautiful Lie 30 Seconds to Mars HD 720p Music Video
+        </description>
+        <flvUrl>http://v10.lscache6.c.youtube.com/videoplayback?sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Cratebypass&itag=22&ipbits=8&signature=CB859561FDC7299EA12F2948976648CF94C8A080.CBB76228EFD577582B5F1E25F336A8E577DDA49F&sver=3&ratebypass=yes&expire=1301382000&key=yt1&ip=213.0.0.0&id=4811feb83f0dfa71
+        </flvUrl>
+</youtube>
